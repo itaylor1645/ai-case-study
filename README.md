@@ -1,5 +1,5 @@
 ```markdown
-# TITLE
+# Case Study - Kinetisense
 
 ## Overview and Origin
 
@@ -7,12 +7,13 @@
 - **Incorporation Date:** Kinetisense was founded in 2013.
 - **Founders:** Kinetisense was co-founded by Dr. Ryan Comeau and David Schnare.
 - **Company's Origin:** As a chiropractor, Dr. Ryan Comeau recognized a demand for a sophisticated human motion analysis tool during his practice. He realized that existing tools were outdated, prompting him to develop a modern solution. The idea stemmed from his undergraduate studies, where he identified a demand for more advanced techniques in movement analysis.
-- **Funding:** Details regarding the company's funding are undisclosed. The founder likely made the initial investment to get Kinetisense.
+- **Funding:** Details regarding the company's funding are undisclosed. The founder likely made the initial investment to get Kinetisense started.
 
 ## Business Activities
 
 - **Problem Addressed:** One of the major issues facing clinical treatments was the reliance on archaic tools and techniques, which enforced a treatment-driven clinical method. The Kinetisense iOS system offers a portable solution that allows practitioners to quickly gather data, which can be used for more accurate insurance claims. This capability has enabled Kinetisense to disrupt the treatment-driven paradigm in clinical methods, in favor of an assessment-driven approach. 
 
+From the Kinetisense website:
 > As the world’s first patented markerless motion capture analysis system, Kinetisense allows you to engage with your patients and provide them real-time biofeedback for how they truly move.
 
 This assessment-driven paradigm provides accurate diagnosis, personalized treatment, analysis of underlying root causes, insights into preventive care, and monitoring of improvement, all while saving money and time.
